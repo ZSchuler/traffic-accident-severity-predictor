@@ -1,6 +1,9 @@
 # traffic-accident-severity-predictor
 Course project for the CMPT455 - Data Mining class at SFU.
 
+## Dataset
+[US Accidents (2016 - 2023) -- 500k Sampled Version](https://drive.google.com/file/d/1U3u8QYzLjnEaSurtZfSAS_oh9AT2Mn8X)
+
 ## Python Environment
 
 Create the venv (first time only):
